@@ -1,6 +1,6 @@
 ### Olá Mundo
-- 💜 Meu nome é Vitória, tenho 18 anos
-- 👩‍💻 Faço faculdade de Engenharia da Computação ( 3 semestre)
+- 💜 Meu nome é Vitória, tenho 19 anos
+- 👩‍💻 Faço faculdade de Engenharia da Computação ( 4 semestre)
 
 ### Estudando
 
