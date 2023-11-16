@@ -29,7 +29,7 @@ object **Vitória** {
     alt="Logo C"/></code>
 <code><img
     height="30"
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fplus-logo-c%2B%2B%2F214621&psig=AOvVaw1X-eHIEPo0KU-JCeCYiHtP&ust=1700249671266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUhd-hyYIDFQAAAAAdAAAAABAR"
+    src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png"
     alt="Logo C++"/></code>
 <code><img
     height="30"
