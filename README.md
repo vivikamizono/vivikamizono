@@ -51,7 +51,7 @@ object **Vitória** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
+[website]: https://vivi.kamizono@gmail.com
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
@@ -61,7 +61,7 @@ object **Vitória** {
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
+🏡 [email][email] **|**
 🐦 [Twitter][twitter] **|**
 📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
