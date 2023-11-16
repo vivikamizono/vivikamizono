@@ -21,16 +21,16 @@ object **Vitória** {
 
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
-    alt="Logo android"/></code>
+    src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"
+    alt="Logo python"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
-    alt="Logo kotlin"/></code>
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Logo.png&psig=AOvVaw0yVCyv_fvCryOTIBZSJOif&ust=1700249631251000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjFhMyhyYIDFQAAAAAdAAAAABAE"
+    alt="Logo C"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-    alt="Logo firebase"/></code>
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fplus-logo-c%2B%2B%2F214621&psig=AOvVaw1X-eHIEPo0KU-JCeCYiHtP&ust=1700249671266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUhd-hyYIDFQAAAAAdAAAAABAR"
+    alt="Logo C++"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
@@ -44,21 +44,11 @@ object **Vitória** {
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
     alt="Logo visual studio"/></code>
 <code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-    alt="Logo git"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-    alt="Logo terminal"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
     alt="Logo HTML"/></code>
 <code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="Logo CSS"/></code>
 
 ## Status
 
@@ -74,7 +64,7 @@ object **Vitória** {
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/vitoriamagarkamizono/
 
 <br>
 
