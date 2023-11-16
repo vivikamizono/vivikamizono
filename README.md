@@ -4,7 +4,7 @@ Sou estudante do 4º semestre de Engenharia da Computação, estou em busca de u
 
 ## Mais sobre mim
 
-<img "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+<img align="right" width="300" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
 ```kotlin
 object **Vitória** {
