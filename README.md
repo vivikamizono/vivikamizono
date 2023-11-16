@@ -25,7 +25,7 @@ object **Vitória** {
     alt="Logo python"/></code>
 <code><img
     height="30"
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Logo.png&psig=AOvVaw0yVCyv_fvCryOTIBZSJOif&ust=1700249631251000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjFhMyhyYIDFQAAAAAdAAAAABAE"
+    src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"
     alt="Logo C"/></code>
 <code><img
     height="30"
