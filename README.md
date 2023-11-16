@@ -9,10 +9,10 @@ Sou estudante do 4º semestre de Engenharia da Computação, estou em busca de u
 ```kotlin
 object **Vitória** {
  val name = "Vitória Kamizono"
- val acknowledgements = "Engenharia da Computação"
+ val studyArea = "Engenharia da Computação"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+ val languages = listOf("Java", "Python", "JavaScript", "C", "C#")
 
 }
 ```
