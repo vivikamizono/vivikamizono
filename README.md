@@ -1,19 +1,87 @@
-### Olá Mundo
-- 💜 Meu nome é Vitória, tenho 19 anos
-- 👩‍💻 Faço faculdade de Engenharia da Computação ( 4 semestre)
+# Olá, me chamo Vitória 👋
 
-### Estudando
+Sou estudante do 4º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img Cancel changessrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+## Mais sobre mim
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+```kotlin
+object **Vitória** {
+ val name = "Vitória Kamizono"
+ val acknowledgements = "Engenharia da Computação"
 
-### Contatos:
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
 
-<div>
-<a href="https://www.instagram.com/vicky_kamizono/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vivi.kamizono@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://https://www.linkedin.com/in/vitoriamagarkamizono/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+}
+```
 
+## Linguagens e ferramentas
 
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
+    alt="Logo android"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
+    alt="Logo kotlin"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+    alt="Logo firebase"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+    alt="Logo java"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    alt="Logo javascript"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+    alt="Logo visual studio"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    alt="Logo git"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+    alt="Logo terminal"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    alt="Logo HTML"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    alt="Logo CSS"/></code>
+
+## Status
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
+<br>
+
+## Rede sociais
+
+🏡 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [Youtube][youtube] **|**
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
