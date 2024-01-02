@@ -1,6 +1,6 @@
 # Olá, me chamo Vitória 👋
 
-Sou estudante do 4º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
+Sou estudante do 5º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
 
 ## Mais sobre mim
 
