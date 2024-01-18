@@ -12,7 +12,7 @@ object **Vitória** {
  val studyArea = "Engenharia da Computação"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "C", "C#")
+ val languages = listOf("Python","C#", , "C", "C++", "Kotilin", "JavaScript", "Java")
 
 }
 ```
