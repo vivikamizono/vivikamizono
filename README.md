@@ -19,7 +19,7 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
 }
 ```
 
-## Codes And Tools <img src="https://media.tenor.com/ogUWQq4qC_kAAAAi/cute.gif" width="50"></h2>
+## <img src="https://media.tenor.com/ogUWQq4qC_kAAAAi/cute.gif" width="50"></h2> Codes And Tools 
 
 <code><img
     height="30"
