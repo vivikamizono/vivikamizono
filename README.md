@@ -53,5 +53,5 @@ object **Vitória** {
 ## Rede sociais
 
 🏡 [email][email] **|**
-👔 [LinkedIn][linkedin]
+👔 [LinkedIn][linkedin] **|**
 📷 [instagram][instagram]
