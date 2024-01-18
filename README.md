@@ -2,9 +2,6 @@
 
 <p><em>Computer Engineering Student at <a href="https://unasp.br">UNASP - Centro Universitário Adventista de São Paulo</a><img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="30">
 
-
-////Sou estudante do 5º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
-
 ### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
 
 <img align="right" width="300" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
