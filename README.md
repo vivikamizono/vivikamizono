@@ -45,7 +45,7 @@ object **Vitória** {
 [email]: https://vivi.kamizono@gmail.com
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[instagram]: https://www.instagram.com/studying_vicky?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 [linkedin]: https://www.linkedin.com/in/vitoriamagarkamizono/
 
 <br>
@@ -54,3 +54,4 @@ object **Vitória** {
 
 🏡 [email][email] **|**
 👔 [LinkedIn][linkedin]
+📷 [instagram][instagram]
