@@ -47,11 +47,12 @@ object **Vitória** {
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/studying_vicky?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 [linkedin]: https://www.linkedin.com/in/vitoriamagarkamizono/
-
+[dio]: https://www.dio.me/users/vivi_kamizono
 <br>
 
 ## Rede sociais
 
 🏡 [email][email] **|**
 👔 [LinkedIn][linkedin] **|**
-📷 [instagram][instagram]
+📷 [instagram][instagram] **|**
+📖 [dio][dio]
