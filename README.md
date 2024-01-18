@@ -1,4 +1,4 @@
-<h2> Hi, I'm Vitória! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Vitória! <img src="https://tenor.com/bSsF1.gif" width="50"></h2>
 
 Sou estudante do 5º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
 
