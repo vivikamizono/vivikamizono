@@ -2,7 +2,7 @@
 
 Sou estudante do 5º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
 
-### <img src="https://tenor.com/pt-BR/view/sanrio-hello-kitty-gif-25418889" width="50"> A little more about me...  
+### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
 
 <img align="right" width="300" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
