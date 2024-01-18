@@ -1,6 +1,9 @@
 <h2> Hi, I'm Vitória! <img src="https://media.tenor.com/x5mCUZFo-9sAAAAi/hello-kitty.gif" width="50"></h2>
 
-Sou estudante do 5º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
+
+////Sou estudante do 5º semestre de Engenharia da Computação, estou em busca de um estágio para poder aprender na prática sobre programação. Gosto bastante de estudar e realizar cursos a parte.
 
 ### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
 
