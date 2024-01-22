@@ -20,6 +20,12 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
 ```
 <img align="right" width="240" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
+
+
+
+
+
+
 ### <img src="https://media.tenor.com/ogUWQq4qC_kAAAAi/cute.gif" width="50"> Codes And Tools  
 
 <code><img
@@ -42,8 +48,6 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
     alt="Logo javascript"/></code>
-
-
 
 [email]: https://vivi.kamizono@gmail.com
 [twitter]: https://twitter.com/SEUTWITTER
