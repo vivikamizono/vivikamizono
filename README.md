@@ -18,7 +18,7 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
 
 }
 ```
-<img align="right" width="300" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+<img align="right" width="100" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
 ### <img src="https://media.tenor.com/ogUWQq4qC_kAAAAi/cute.gif" width="50"> Codes And Tools  
 
