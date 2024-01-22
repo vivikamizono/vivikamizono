@@ -4,7 +4,7 @@
 
 ### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
 
-<img align="right" width="300" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+
 
 ```kotlin
 object **Vitória** {
@@ -18,6 +18,8 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
 
 }
 ```
+<img align="right" width="300" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+
 ### <img src="https://media.tenor.com/ogUWQq4qC_kAAAAi/cute.gif" width="50"> Codes And Tools  
 
 <code><img
