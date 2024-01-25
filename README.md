@@ -66,3 +66,8 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
 <a href="https://www.dio.me/users/vivi_kamizono">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO Badge" width="50">
 </a>
+
+
+
+
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
