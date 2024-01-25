@@ -49,17 +49,20 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
     alt="Logo javascript"/></code>
 
-[email]: https://vivi.kamizono@gmail.com
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/studying_vicky?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-[linkedin]: https://www.linkedin.com/in/vitoriamagarkamizono/
-[dio]: https://www.dio.me/users/vivi_kamizono
-<br>
+### Redes Sociais 💻
 
-## Rede sociais
+ <a href="https://www.linkedin.com/in/vitoriamagarkamizono/">
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30">
+  </a>
+  
+ <a href="https://www.instagram.com/studying_vicky?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="30">
+  </a>
 
-🏡 [email][email] **|**
-👔 [LinkedIn][linkedin] **|**
-📷 [instagram][instagram] **|**
-📖 [dio][dio]
+  <a href=" https://vivi.kamizono@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="30">
+  </a>
+
+<a href="https://www.dio.me/users/vivi_kamizono">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO Badge" width="50">
+</a>
