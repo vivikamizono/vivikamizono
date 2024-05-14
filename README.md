@@ -46,8 +46,8 @@ println("I hope you like my profile. Feel free to hit me up on Instagram and fol
     alt="Logo java"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    alt="Logo javascript"/></code>
+    src="https://www.juliosblog.com/content/images/size/w600/2016/06/mariadb-logo1.png"
+    alt="Logo MariaDB"/></code>
 
 ### Redes Sociais 💻
 
