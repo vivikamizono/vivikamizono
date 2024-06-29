@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vitória! <img src="https://media.tenor.com/x5mCUZFo-9sAAAAi/hello-kitty.gif" width="50"></h2>
 
-<p><em>Computer Engineering Student at <a href="https://unasp.br">UNASP - Centro Universitário Adventista de São Paulo</a><img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="30">
+<p><em>Computer Science Student at <a href="https://unasp.br">UNASP - Centro Universitário Adventista de São Paulo</a><img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="30">
 
 ### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
 
@@ -9,7 +9,7 @@
 ```kotlin
 object **Vitória** {
  val name = "Vitória Kamizono"
- val studyArea = "Computer Engineering"
+ val studyArea = "Computer Science"
 
  val primarySkillset = "SOME SKILLS"
  val languages = listOf("Python","C#", "C", "C++", "MariaDB", "Flask")
