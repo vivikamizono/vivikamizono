@@ -1,7 +1,19 @@
 <h2> Hi, I'm Vitória! <img src="https://media.tenor.com/x5mCUZFo-9sAAAAi/hello-kitty.gif" width="50"></h2>
 
 <p><em>Computer Science Student at <a href="https://unasp.br">UNASP - Centro Universitário Adventista de São Paulo</a><img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="30">
-<p><em>Trainee developer at <a href="https://netpartners.com.br/">Netpartners</a>
+
+
+
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQHXNzgIXovHPA/company-logo_200_200/company-logo_200_200/0/1719256202440/net_partners_logo?e=1738195200&v=beta&t=dIZIdOTI3uepQcucI0_iImENuZbijZpwgEpAZCyVqOs"/>](https://netpartners.com.br/)
+
+**Analyst and Developer** \
+[**Netpartners**]([https://www.spacex.com/](https://netpartners.com.br/)) • Trainee \
+Linguagens & Tecnologias: `Python`, `IBM`, `Planning Analytics`
+
+
+
 
 ### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
 
