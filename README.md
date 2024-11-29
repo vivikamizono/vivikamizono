@@ -1,86 +1,34 @@
-<h2> Hi, I'm Vitória! <img src="https://media.tenor.com/x5mCUZFo-9sAAAAi/hello-kitty.gif" width="50"></h2>
+<h2> Olá, bem vindo, sou a Vicky! <img src="https://media.tenor.com/x5mCUZFo-9sAAAAi/hello-kitty.gif" width="30"></h2>
 
-<p><em>Computer Science Student at <a href="https://unasp.br">UNASP - Centro Universitário Adventista de São Paulo</a><img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="30">
+## Sobre mim
 
+- 🎓 Cursando Ciências da Computação na UNASP.
+- 💼 Trabalhando como analista e desenvolvedora na Netpartners.
+- 🌱 Aprendendo cada dia mais e buscando sempre evoluir.
 
+## Minhas Skills
 
-### Experiência de trabalho
+**Aplicações e dados**
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQHXNzgIXovHPA/company-logo_200_200/company-logo_200_200/0/1719256202440/net_partners_logo?e=1738195200&v=beta&t=dIZIdOTI3uepQcucI0_iImENuZbijZpwgEpAZCyVqOs"/>](https://netpartners.com.br/)
-
-**Analyst and Developer** \
-[**Netpartners**]([https://www.spacex.com/](https://netpartners.com.br/)) • Trainee \
-Linguagens & Tecnologias: `Python`, `IBM`, `Planning Analytics`
-
-
-
-
-### <img src="https://media.tenor.com/kT6gMVRA-cwAAAAi/sanrio-hello-kitty.gif" width="50"> A little more about me...  
-
-
-
-```kotlin
-object **Vitória** {
- val name = "Vitória Kamizono"
- val studyArea = "Computer Science"
-
- val primarySkillset = "SOME SKILLS"
- val languages = listOf("Python","C#", "C", "C++", "MariaDB", "Flask")
-
-println("I hope you like my profile. Feel free to hit me up on Instagram and follow me on Linkedln!!")
-
-}
-```
-<img align="right" width="240" src= "https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![IBM PA](https://img.shields.io/badge/IBM%20Planning%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![]()
 
 
+<br/>
 
-
-
-
-
-### <img src="https://media.tenor.com/ogUWQq4qC_kAAAAi/cute.gif" width="50"> Codes And Tools  
-
-<code><img
-    height="30"
-    src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"
-    alt="Logo python"/></code>
-<code><img
-    height="30"
-    src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"
-    alt="Logo C"/></code>
-<code><img
-    height="30"
-    src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png"
-    alt="Logo C++"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
-    alt="Logo java"/></code>
-<code><img
-    height="30"
-    src="https://www.juliosblog.com/content/images/size/w600/2016/06/mariadb-logo1.png"
-    alt="Logo MariaDB"/></code>
-
-### Redes Sociais 💻
-
- <a href="https://www.linkedin.com/in/vitoriamagarkamizono/">
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30">
-  </a>
-  
- <a href="https://www.instagram.com/studying_vicky?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="30">
-  </a>
-
-  <a href=" https://vivi.kamizono@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="30">
-  </a>
-
-<a href="https://www.dio.me/users/vivi_kamizono">
-  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO Badge" width="50">
+<a href="https://github.com/vivikamizono" title="Perfil da Vicky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivikamizono&theme=dracula&show_icons=true" />
 </a>
 
+[![vivikamizono](https://github-readme-stats.vercel.app/api/top-langs/?username=vivikamizono&hide=html&layout=compact&theme=default&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffe4e1)](https://github.com/vivikamizono/github-readme-stats)
+
+## Onde me encontrar
+
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/vitoriamagarkamizono/)](https://www.linkedin.com/in/vitoriamagarkamizono/)
 
 
-
- ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
