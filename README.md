@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Cursando Ciências da Computação na UNASP.
-- 💼 Trabalhando como analista e desenvolvedora na Netpartners.
+- 💼 Estou em busca de uma oportunidade de emprego.
 - 🌱 Aprendendo cada dia mais e buscando sempre evoluir.
 
 ## Minhas Skills
