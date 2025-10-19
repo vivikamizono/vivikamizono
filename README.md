@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Cursando Ciências da Computação na UNASP.
-- 💼 Estou em busca de uma oportunidade de emprego.
+- 💼 Estágio na VIVO (Telefonica)
 - 🌱 Aprendendo cada dia mais e buscando sempre evoluir.
 
 ## Minhas Skills
@@ -15,7 +15,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![IBM PA](https://img.shields.io/badge/IBM%20Planning%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![]()
 
 
